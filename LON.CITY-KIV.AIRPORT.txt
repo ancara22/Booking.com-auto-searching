@@ -1,0 +1,212 @@
+
+
+1) Date: 2022-09-15
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air, operated by Wizz Air UK £136.62
+
+2) Date: 2022-09-16
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £175.15
+
+3) Date: 2022-09-17
+   9:30 AM LTN 3h 10m 2:40 PM KIV FlyOne £107.47
+
+4) Date: 2022-09-18
+   6:40 AM LTN 3h 15m 11:55 AM KIV Wizz Air, operated by Wizz Air UK £162.13
+
+5) Date: 2022-09-19
+   2:45 PM STN 3h 05m 7:50 PM KIV Air Moldova , carry-on bag £96.12
+
+6) Date: 2022-09-20
+   2:40 PM STN 2h 50m 7:30 PM KIV Air Moldova , carry-on bag £96.12
+
+7) Date: 2022-09-21
+   9:55 PM LTN 3h 00m 2:55 AM KIVSept 22FlyOne £85.51
+
+8) Date: 2022-09-22
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air UK £88.59
+
+9) Date: 2022-09-23
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £114.28
+
+10) Date: 2022-09-24
+   9:30 AM LTN 3h 10m 2:40 PM KIV FlyOne £89.48
+
+11) Date: 2022-09-25
+   6:40 AM LTN 3h 15m 11:55 AM KIV Wizz Air UK £106.84
+
+12) Date: 2022-09-26
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air UK £88.59
+
+13) Date: 2022-09-27
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air, operated by Wizz Air UK £88.39
+
+14) Date: 2022-09-28
+   9:55 PM LTN 3h 00m 2:55 AM KIVSept 29FlyOne £80.55
+
+15) Date: 2022-09-29
+   2:40 PM STN 2h 50m 7:30 PM KIV Air Moldova , carry-on bag £119.92
+
+16) Date: 2022-09-30
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £123.15
+
+17) Date: 2022-10-01
+   9:30 AM LTNOct 13h 10m 2:40 PM KIVOct 1FlyOne £94.41
+
+19) Date: 2022-10-03
+   4:30 PM LTNOct 33h 15m 9:45 PM KIVOct 3Wizz Air UK £97.61
+
+20) Date: 2022-10-04
+   2:40 PM STNOct 42h 50m 7:30 PM KIVOct 4Air Moldova , carry-on bag £102.01
+
+21) Date: 2022-10-05
+   9:25 AM LTNOct 53h 15m 2:40 PM KIVOct 5Wizz Air, operated by Wizz Air UK £88.30
+
+22) Date: 2022-10-06
+   2:40 PM STNOct 62h 50m 7:30 PM KIVOct 6Air Moldova , carry-on bag £102.01
+
+23) Date: 2022-10-07
+   4:30 PM LTNOct 73h 15m 9:45 PM KIVOct 7Wizz Air, operated by Wizz Air UK £80.34
+
+24) Date: 2022-10-08
+   9:30 AM LTNOct 83h 10m 2:40 PM KIVOct 8FlyOne £94.41
+
+25) Date: 2022-10-09
+   6:40 AM LTNOct 93h 15m 11:55 AM KIVOct 9Wizz Air, operated by Wizz Air UK £136.09
+
+26) Date: 2022-10-10
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £106.22
+
+27) Date: 2022-10-11
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air UK £67.19
+
+28) Date: 2022-10-12
+   9:25 AM LTN 3h 15m 2:40 PM KIV Wizz Air UK £71.24
+
+29) Date: 2022-10-13
+   2:40 PM STN 2h 50m 7:30 PM KIV Air Moldova , carry-on bag £102.02
+
+30) Date: 2022-10-14
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £123.14
+
+31) Date: 2022-10-15
+   9:30 AM LTN 3h 10m 2:40 PM KIV FlyOne £98.38
+
+33) Date: 2022-10-17
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £106.21
+
+35) Date: 2022-10-19
+   9:25 AM LTN 3h 15m 2:40 PM KIV Wizz Air, operated by Wizz Air UK £88.29
+
+38) Date: 2022-10-22
+   9:30 AM LTN 3h 10m 2:40 PM KIV FlyOne £98.31
+
+40) Date: 2022-10-24
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air, operated by Wizz Air UK £97.13
+
+41) Date: 2022-10-25
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air UK £52.86
+
+43) Date: 2022-10-27
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air UK £44.75
+
+44) Date: 2022-10-28
+   4:30 PM LTN 3h 15m 9:45 PM KIV Wizz Air UK £61.98
+
+45) Date: 2022-10-29
+   3:15 PM LTN 3h 15m 8:30 PM KIV Wizz Air, operated by Wizz Air UK £88.12
+
+46) Date: 2022-10-30
+   7:45 AM LTN 3h 15m 1:00 PM KIV Wizz Air, operated by Wizz Air UK £88.12
+
+47) Date: 2022-10-31
+   6:10 AM LTN 3h 15m 11:25 AM KIV Wizz Air UK £44.70
+
+48) Date: 2022-11-01
+   7:10 AM LTNNov 13h 15m 12:25 PM KIVNov 1Wizz Air UK £31.51
+
+49) Date: 2022-11-02
+   6:20 AM LTNNov 23h 15m 11:35 AM KIVNov 2Wizz Air UK £31.51
+
+50) Date: 2022-11-03
+   3:25 PM LTNNov 33h 15m 8:40 PM KIVNov 3Wizz Air UK £31.51
+
+51) Date: 2022-11-04
+   6:10 AM LTNNov 43h 15m 11:25 AM KIVNov 4Wizz Air UK £31.51
+
+53) Date: 2022-11-06
+   7:45 AM LTNNov 63h 15m 1:00 PM KIVNov 6Wizz Air UK £31.51
+
+55) Date: 2022-11-08
+   7:10 AM LTNNov 83h 15m 12:25 PM KIVNov 8Wizz Air UK £31.37
+
+56) Date: 2022-11-09
+   6:20 AM LTNNov 93h 15m 11:35 AM KIVNov 9Wizz Air UK £31.36
+
+59) Date: 2022-11-12
+   3:25 PM LTN 3h 15m 8:40 PM KIV Wizz Air UK £35.37
+
+61) Date: 2022-11-14
+   6:10 AM LTN 3h 15m 11:25 AM KIV Wizz Air UK £31.31
+
+63) Date: 2022-11-16
+   6:20 AM LTN 3h 15m 11:35 AM KIV Wizz Air UK £31.31
+
+64) Date: 2022-11-17
+   3:25 PM LTN 3h 15m 8:40 PM KIV Wizz Air UK £31.31
+
+65) Date: 2022-11-18
+   1:55 PM LTN 3h 15m 7:10 PM KIV Wizz Air UK £31.31
+
+66) Date: 2022-11-19
+   3:25 PM LTN 3h 15m 8:40 PM KIV Wizz Air UK £44.49
+
+67) Date: 2022-11-20
+   7:45 AM LTN 3h 15m 1:00 PM KIV Wizz Air UK £31.31
+
+68) Date: 2022-11-21
+   6:10 AM LTN 3h 15m 11:25 AM KIV Wizz Air UK £31.31
+
+70) Date: 2022-11-23
+   6:20 AM LTN 3h 15m 11:35 AM KIV Wizz Air UK £31.31
+
+71) Date: 2022-11-24
+   3:25 PM LTN 3h 15m 8:40 PM KIV Wizz Air UK £31.31
+
+72) Date: 2022-11-25
+   6:10 AM LTN 3h 15m 11:25 AM KIV Wizz Air UK £31.31
+
+74) Date: 2022-11-27
+   7:45 AM LTN 3h 15m 1:00 PM KIV Wizz Air UK £31.31
+
+75) Date: 2022-11-28
+   6:10 AM LTN 3h 15m 11:25 AM KIV Wizz Air UK £31.31
+
+76) Date: 2022-11-29
+   7:10 AM LTN 3h 15m 12:25 PM KIV Wizz Air UK £31.23
+
+77) Date: 2022-11-30
+   6:20 AM LTN 3h 15m 11:35 AM KIV Wizz Air UK £31.23
+
+78) Date: 2022-12-01
+   3:25 PM LTNDec 13h 15m 8:40 PM KIVDec 1Wizz Air UK £31.23
+
+81) Date: 2022-12-04
+   7:45 AM LTNDec 43h 15m 1:00 PM KIVDec 4Wizz Air UK £31.12
+
+83) Date: 2022-12-06
+   7:10 AM LTNDec 63h 15m 12:25 PM KIVDec 6Wizz Air UK £31.12
+
+84) Date: 2022-12-07
+   6:20 AM LTNDec 73h 15m 11:35 AM KIVDec 7Wizz Air UK £31.12
+
+85) Date: 2022-12-08
+   3:25 PM LTNDec 83h 15m 8:40 PM KIVDec 8Wizz Air UK £44.30
+
+86) Date: 2022-12-09
+   6:10 AM LTNDec 93h 15m 11:25 AM KIVDec 9Wizz Air, operated by Wizz Air UK £52.79
+
+
+--------Cheapest Flight:--------
+
+81) Date: 2022-12-04
+   7:45 AM LTNDec 43h 15m 1:00 PM KIVDec 4Wizz Air UK £31.12
+------------------------
